@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\antol\.Rider2018.2\config\consoles\db" t="IncludeRecursive" />
+    <e p="C:\Users\antol\.Rider2018.2\config\extensions" t="IncludeRecursive" />
+    <e p="C:\Users\antol\.Rider2018.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\antol\.Rider2018.2\system\resharper-host\Local\Transient\ReSharperHost\v182\SolutionCaches\_FactoryDecorator.-194396093.00" t="ExcludeRecursive" />
+    <e p="D:\programming\design-patterns\FactoryDecorator" t="IncludeFlat">
+      <e p="FactoryDecorator" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="FactoryDecorator.csproj" t="IncludeRecursive" />
+        <e p="IIngredient.cs" t="Include" />
+        <e p="Ingredients" t="Include">
+          <e p="BlackOlives.cs" t="Include" />
+          <e p="CakeLayer.cs" t="Include" />
+          <e p="CheeseFeta.cs" t="Include" />
+          <e p="CheeseFormagio.cs" t="Include" />
+          <e p="CreamCheese.cs" t="Include" />
+          <e p="GreenOlives.cs" t="Include" />
+          <e p="Ham.cs" t="Include" />
+          <e p="Mushrooms.cs" t="Include" />
+          <e p="ParmesanCheese.cs" t="Include" />
+          <e p="RossiyskiCheese.cs" t="Include" />
+          <e p="Tomato.cs" t="Include" />
+        </e>
+        <e p="IPizzaFactory.cs" t="Include" />
+        <e p="Menu" t="Include">
+          <e p="Ester.cs" t="Include" />
+          <e p="FourCheeses.cs" t="Include" />
+          <e p="Neopolitana.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.1" t="Include">
+              <e p="FactoryDecorator.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Pizza.cs" t="Include" />
+        <e p="PizzaDecorator.cs" t="Include" />
+        <e p="Program.cs" t="Include" />
+      </e>
+      <e p="FactoryDecorator.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

@@ -1,0 +1,11 @@
+D:\programming\design-patterns\FactoryDecorator\FactoryDecorator\bin\Debug\netcoreapp2.1\FactoryDecorator.deps.json
+D:\programming\design-patterns\FactoryDecorator\FactoryDecorator\bin\Debug\netcoreapp2.1\FactoryDecorator.runtimeconfig.json
+D:\programming\design-patterns\FactoryDecorator\FactoryDecorator\bin\Debug\netcoreapp2.1\FactoryDecorator.runtimeconfig.dev.json
+D:\programming\design-patterns\FactoryDecorator\FactoryDecorator\bin\Debug\netcoreapp2.1\FactoryDecorator.dll
+D:\programming\design-patterns\FactoryDecorator\FactoryDecorator\bin\Debug\netcoreapp2.1\FactoryDecorator.pdb
+D:\programming\design-patterns\FactoryDecorator\FactoryDecorator\obj\Debug\netcoreapp2.1\FactoryDecorator.csprojAssemblyReference.cache
+D:\programming\design-patterns\FactoryDecorator\FactoryDecorator\obj\Debug\netcoreapp2.1\FactoryDecorator.csproj.CoreCompileInputs.cache
+D:\programming\design-patterns\FactoryDecorator\FactoryDecorator\obj\Debug\netcoreapp2.1\FactoryDecorator.AssemblyInfoInputs.cache
+D:\programming\design-patterns\FactoryDecorator\FactoryDecorator\obj\Debug\netcoreapp2.1\FactoryDecorator.AssemblyInfo.cs
+D:\programming\design-patterns\FactoryDecorator\FactoryDecorator\obj\Debug\netcoreapp2.1\FactoryDecorator.dll
+D:\programming\design-patterns\FactoryDecorator\FactoryDecorator\obj\Debug\netcoreapp2.1\FactoryDecorator.pdb
