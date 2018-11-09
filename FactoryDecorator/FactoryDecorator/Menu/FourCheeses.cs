@@ -9,7 +9,7 @@ namespace FactoryDecorator.Menu
     {
         private const double Cost = 56;
         private const string Description = "Four cheese pizza";
-        private List<IIngredient> _recipe;
+        private readonly List<IIngredient> _recipe;
 
         public FourCheeses()
         {
